@@ -30,8 +30,7 @@ git clone https://github.com/UmangGoti/dashboard-animation
 `react-native-safe-area-context`
 [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) for Safe Area of the Screen.
 
-## Example Screens & GIF
-
+## Example Screens
 
 <img altr="1" width="200" src="https://github.com/UmangGoti/dashboard-animation/blob/Develop/src/assets/Screenshot1.png" height="400"><img altr="2" width="200" src="https://github.com/UmangGoti/dashboard-animation/blob/Develop/src/assets/Screenshot2.png" height="400"><img altr="3" width="200" src="https://github.com/UmangGoti/dashboard-animation/blob/Develop/src/assets/Screenshot3.png" height="400">
 
